@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Willkommen zur Sprachlern-App!</h1>
-        <p>Hier beginnen Sie Ihre Reise zum Sprachen lernen.</p>
+        <p>Hier beginnen Sie Ihre Reise zum Erlernen von Sprachen.</p>
       </header>
     </div>
   );
